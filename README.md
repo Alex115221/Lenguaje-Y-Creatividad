@@ -19,3 +19,15 @@
 <h2>Escribe una historia</h2>
 <img src="https://github.com/user-attachments/assets/f3bcf3d8-10a9-459f-84fe-1a6ce4ed58aa" width="400" height="300">
 
+<h2>¿Que abre esta llave?</h2>
+<img src="https://github.com/user-attachments/assets/2142b590-b4f6-46a5-b521-4373e77412e0" width="400" height="300">
+<h2>Contesta el ejercicio con ayuda de tu docente</h2>
+<img src="https://github.com/user-attachments/assets/d0827631-ec5b-497b-96de-58f2a5e6050b" width="600" height="450">
+
+<h1>Actividad 3</h1>
+<h2>Crea un anuncio de otro producto higienico, similar a este</h2>
+<img src="https://github.com/user-attachments/assets/ff006b5a-4177-4a11-9e86-3d4d4411d885" width="600" height="450">
+<h1>Actividad 4</h1>
+<h2>Crea un anuncio sobre comida nutritiva, similar a este</h2>
+<img src="https://github.com/user-attachments/assets/3bfabdfe-26f1-4340-8327-954ce6145424" width="600" height="450">
+
